@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: docker.io
+  repository: https://hub.docker.com/repository/docker/liyakeidar1/slog-project/general
   pullPolicy: always
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
