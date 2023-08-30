@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: liyakeidar1/slog-project:slog-image
+  repository: liyakeidar1/slog-project
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
